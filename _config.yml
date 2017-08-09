@@ -81,7 +81,7 @@ author:
   name             : "Yi-Ting Huang"
   avatar           : "profile.png"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
