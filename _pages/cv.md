@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D., Information Management, National Taiwan University, 2008 – 2015
-Advisor: Yeali S. Sun and Meng Chang Chen
-Thesis title: Personalized computer-aided question generation for English language learning
+  * Advisor: Yeali S. Sun and Meng Chang Chen
+  * Thesis title: Personalized computer-aided question generation for English language learning
 
 Research experience
 ======
