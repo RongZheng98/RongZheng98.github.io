@@ -48,7 +48,7 @@ Awards & Honors
 Publications
 ======
 * Journal
-  * Mostow, J.,   <ul>Huang, Y. T.</ul>, Jang, H., Weinstein, A., Valeri, J., & Gates, D. (2017). Developing, Evaluating and Refining an Automatic Generator of Diagnostic Multiple Choice Cloze Questions to Assess Comprehension while Reading. Journal of Natural Language Engineering, 23(2), 245-294.
+  * Mostow, J.,  Huang, Y. T., Jang, H., Weinstein, A., Valeri, J., & Gates, D. (2017). Developing, Evaluating and Refining an Automatic Generator of Diagnostic Multiple Choice Cloze Questions to Assess Comprehension while Reading. Journal of Natural Language Engineering, 23(2), 245-294.
 
   * Yang, J. C., Huang, Y. T., Tsai, C. C., Chung, C. I., & Wu, Y. C. (2009). An Automatic Multimedia Content Summarization System for Video Recommendation. Journal of Educational Technology & Society, 12(1), 49-61.
 
