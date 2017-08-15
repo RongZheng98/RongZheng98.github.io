@@ -9,7 +9,7 @@
  * Date: Fri Aug 26 19:31:44 PDT 2011
  */
 /* Reset.less
- * Props to Eric Meyer (meyerweb.com) for his CSS reset file. We're using an adapted version here	that cuts out some of the reset HTML elements we will never need here (i.e., dfn, samp, etc).
+ * Props to Eric Meyer (meyerweb.com) for his CSS reset file. We're using an adapted version here   that cuts out some of the reset HTML elements we will never need here (i.e., dfn, samp, etc).
  * ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
 html, body {
   margin: 0;
@@ -734,10 +734,10 @@ fieldset legend {
   line-height: 1;
   *margin: 0 0 5px 145px;
   /* IE6-7 */
-
+ 
   *line-height: 1.5;
   /* IE6-7 */
-
+ 
   color: #404040;
 }
 .clearfix {
@@ -925,10 +925,10 @@ input[readonly]:focus, textarea[readonly]:focus, input.disabled {
   padding-left: 5px;
   *position: relative;
   /* IE6-7 */
-
+ 
   *top: -5px;
   /* IE6-7 */
-
+ 
 }
 .help-block {
   display: block;
@@ -983,7 +983,7 @@ input[readonly]:focus, textarea[readonly]:focus, input.disabled {
 .input-prepend .add-on {
   *margin-top: 1px;
   /* IE6-7 */
-
+ 
 }
 .input-append input[type=text], .input-append input[type=password] {
   float: left;
@@ -1358,7 +1358,7 @@ table .headerSortUp.purple, table .headerSortDown.purple {
   background-color: rgba(255, 255, 255, 0.1);
   *background-color: #444;
   /* IE6-7 */
-
+ 
   color: #fff;
 }
 .topbar ul li.menu.open ul {
@@ -1372,7 +1372,7 @@ table .headerSortUp.purple, table .headerSortDown.purple {
   background-color: rgba(255, 255, 255, 0.1);
   *background-color: #444;
   /* IE6-7 */
-
+ 
   color: #fff;
 }
 .topbar ul li.menu.open ul li.active a {
@@ -1746,7 +1746,7 @@ button.btn::-moz-focus-inner, input[type=submit].btn::-moz-focus-inner {
   border-right-color: rgba(0, 0, 0, 0.15);
   *border-right-color: #ddd;
   /* IE6-7 */
-
+ 
   text-decoration: none;
 }
 .pagination ul li a:hover, .pagination ul li.active a {
@@ -1794,7 +1794,7 @@ button.btn::-moz-focus-inner, input[type=submit].btn::-moz-focus-inner {
   border: 1px solid rgba(0, 0, 0, 0.3);
   *border: 1px solid #999;
   /* IE6-7 */
-
+ 
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
@@ -1955,7 +1955,7 @@ button.btn::-moz-focus-inner, input[type=submit].btn::-moz-focus-inner {
   background-color: rgba(0, 0, 0, 0.8);
   *background-color: #333;
   /* IE 6-7 */
-
+ 
   padding: 3px;
   overflow: hidden;
   width: 280px;
