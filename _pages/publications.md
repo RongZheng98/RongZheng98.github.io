@@ -29,12 +29,12 @@ Conference
 * Design of an Online Multimedia Learning System for Improving Students' Perceptions in English Language Learning. <br>
 <strong><U>Yi-Ting Huang</U></strong>, Tzu-Chi Yang, Meng Chang Chen, Chien-Ming Chen, & Yeali S. Sun<br>
 In Proceedings of the 16th IEEE International Conference on Advanced Learning Technologies. July, 2016. Austin, TX, USA. <br>
-<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/1_2016_TEDQuiz.pdf)[[link]](http://ieeexplore.ieee.org/document/7756989/)</span>
+<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/1_2016_TEDQuiz.pdf) [[link]](http://ieeexplore.ieee.org/document/7756989/)</span>
 
 * Evaluating Human and Automated Generation of Distractors for Diagnostic Multiple-Choice Cloze Questions to Assess Children’s Reading Comprehension. <br>
 <strong><U>Yi-Ting Huang</U></strong> & Jack Mostow <br>
 In Proceedings of the 17th International Conference on Artificial Intelligence in Education (AIED 2015), 155-164. June, 2015. Madrid, Spain.  <br>
-<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/2_2015_AIED_DQGen.pdf)[[link]](https://link.springer.com/chapter/10.1007/978-3-319-19773-9_16)[[slides]](http://coralythuang.github.io/files/slides_2015_AIED_DQGen.pdf)</span>
+<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/2_2015_AIED_DQGen.pdf) [[link]](https://link.springer.com/chapter/10.1007/978-3-319-19773-9_16) [[slides]](http://coralythuang.github.io/files/slides_2015_AIED_DQGen.pdf)</span>
 
 * Generating Comprehension Questions using Paraphrase. <br>
 Ya-Min Tseng, <strong><U>Yi-Ting Huang</U></strong>, Meng Chang Chen & Yeali S. Sun<br>
