@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -30,14 +30,18 @@ Research experience
   * Carnegie Mellon University
   * Duties included: Worked on the DQGen (Diagnostic Question Generator). My task involves generating multiple-choice cloze questions for diagnostic assessment of a child’s comprehension while reading. 
   * Host: Jack Mostow
- 
+
+Research interests
+======
+Natural Language Processing, Question Generation, Adaptive Test, Ability Estimation, Reading Difficulty Estimation, Personalized Learning, Intelligent Tutoring System (ITS).
+
 Skills
 ======
 * Programming Languages: Python, JAVA, C++
+* NLP tools: Stanford’s Core NLP Suite, NLTK, Apache OpenNLP, and Apache Lucene
+* Statistics and machine-learning tools: Tensorflow, R, SPSS
 * Web development: HTML, PHP, CSS, JavaScript
 * Database: MySQL
-* NLP tools: Stanford’s Core NLP Suite, NLTK, Apache OpenNLP, GATE, and Apache Lucene
-* Statistics and machine-learning tools: Tensorflow, R, SPSS
 
 Awards & Honors
 ======
@@ -47,7 +51,7 @@ Awards & Honors
 
 Journal
 ======
-* Mostow, J., <strong>Huang, Y. T.</strong>, Jang, H., Weinstein, A., Valeri, J., & Gates, D. (2017). Developing, Evaluating and Refining an Automatic Generator of Diagnostic Multiple Choice Cloze Questions to Assess Comprehension while Reading. Journal of Natural Language Engineering, 23(2), 245-294.
+* Mostow, J., <strong><U>Huang, Y. T.</U></strong>, Jang, H., Weinstein, A., Valeri, J., & Gates, D. (2017). Developing, Evaluating and Refining an Automatic Generator of Diagnostic Multiple Choice Cloze Questions to Assess Comprehension while Reading. Journal of Natural Language Engineering, 23(2), 245-294.
 
 * Yang, J. C., <strong>Huang, Y. T.</strong>, Tsai, C. C., Chung, C. I., & Wu, Y. C. (2009). An Automatic Multimedia Content Summarization System for Video Recommendation. Journal of Educational Technology & Society, 12(1), 49-61.
 
