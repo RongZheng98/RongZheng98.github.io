@@ -22,18 +22,19 @@ Journal of Natural Language Engineering, 23(2), 245-294. 2017. <br>
 Jie Chi Yang, <strong><U>Yi-Ting Huang</U></strong>, Chi Cheng Tsai, Ching I Chung & Yu Chieh Wu  <br>
 Journal of Educational Technology & Society, 12(1), 49-61. 2009. <br>
 <span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/8_2009_ETS.pdf)</span>
+<br>
 
 Conference
 ======
 * Design of an Online Multimedia Learning System for Improving Students' Perceptions in English Language Learning. <br>
 <strong><U>Yi-Ting Huang</U></strong>, Tzu-Chi Yang, Meng Chang Chen, Chien-Ming Chen, & Yeali S. Sun <br>   
-In Proceedings of the 16th IEEE International Conference on Advanced Learning Technologies. Austin, TX, USA. July, 2016 <br>
-<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/1_2016_TEDQuiz.pdf)</span> [[link]](http://ieeexplore.ieee.org/document/7756989/)</span>
+In Proceedings of the 16th IEEE International Conference on Advanced Learning Technologies. July, 2016. Austin, TX, USA. <br>
+<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/1_2016_TEDQuiz.pdf)[[link]](http://ieeexplore.ieee.org/document/7756989/)</span>
 
 * Evaluating Human and Automated Generation of Distractors for Diagnostic Multiple-Choice Cloze Questions to Assess Children’s Reading Comprehension. <br>
 <strong><U>Yi-Ting Huang</U></strong>, & Jack Mostow <br>
-In Proceedings of the 17th International Conference on Artificial Intelligence in Education (AIED 2015), 155-164. June, 2015.
-<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/1_2016_TEDQuiz.pdf)</span> [[link]](http://ieeexplore.ieee.org/document/7756989/)</span>
+In Proceedings of the 17th International Conference on Artificial Intelligence in Education (AIED 2015), 155-164. June, 2015. Madrid, Spain. 
+<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/1_2016_TEDQuiz.pdf)[[link]](http://ieeexplore.ieee.org/document/7756989/)</span>
 
 * Tseng, Y. M., <strong><U>Huang, Y. T.</U></strong>, Chen, M. C., & Sun, Y. L. (2014). Generating Comprehension Questions using Paraphrase. In Proceedings of the 19th Conference on Technologies and Applications of Artificial Intelligence (TAAI 2014), 310-321.
 <span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/1_2016_TEDQuiz.pdf)</span> [[link]](https://link.springer.com/chapter/10.1007/978-3-319-19773-9_16)</span>
