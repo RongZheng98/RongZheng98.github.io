@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Yi-Ting Huang"
   avatar           : "yiting.jpg"
-  bio              : #"Your biography for the left-hand sidebar"
-  location         : #"Location"
+  bio              : " " #"Your biography for the left-hand sidebar"
+  location         : "Texas, USA " #"Location"
   employer         :
   googlescholar    : "https://scholar.google.com.tw/citations?user=uZIy830AAAAJ&hl=en"
   email            : "yitinghuang@tamu.edu"
