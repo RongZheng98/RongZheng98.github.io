@@ -33,7 +33,7 @@ In Proceedings of the 16th IEEE International Conference on Advanced Learning Te
 
 * Evaluating Human and Automated Generation of Distractors for Diagnostic Multiple-Choice Cloze Questions to Assess Children’s Reading Comprehension. <br>
 <strong><U>Yi-Ting Huang</U></strong> & Jack Mostow <br>
-In Proceedings of the 17th International Conference on Artificial Intelligence in Education (AIED 2015), 155-164. June, 2015. Madrid, Spain. 
+In Proceedings of the 17th International Conference on Artificial Intelligence in Education (AIED 2015), 155-164. June, 2015. Madrid, Spain.  <br>
 <span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/1_2016_TEDQuiz.pdf)[[link]](http://ieeexplore.ieee.org/document/7756989/)</span>
 
 * Generating Comprehension Questions using Paraphrase. <br>
