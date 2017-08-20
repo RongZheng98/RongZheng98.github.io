@@ -16,12 +16,12 @@ Journal
 * Developing, Evaluating and Refining an Automatic Generator of Diagnostic Multiple Choice Cloze Questions to Assess Comprehension while Reading. <br>
 Jack Mostow, <strong><U>Yi-Ting Huang</U></strong>, Hyeju Jang, Anders Weinstein, Joe Valeri, & Donna Gates <br>
 Journal of Natural Language Engineering, 23(2), 245-294. 2017. <br>
-[link](https://www.cambridge.org/core/journals/natural-language-engineering/article/div-classtitledeveloping-evaluating-and-refining-an-automatic-generator-of-diagnostic-multiple-choice-cloze-questions-to-assess-childrenandaposs-comprehension-while-readinga-hreffn1a-ref-typefnadiv/8EAE0707139D12EB3D4E3EE6AE072AAA)
+<span style="color:#4285F4">[[link]](https://www.cambridge.org/core/journals/natural-language-engineering/article/div-classtitledeveloping-evaluating-and-refining-an-automatic-generator-of-diagnostic-multiple-choice-cloze-questions-to-assess-childrenandaposs-comprehension-while-readinga-hreffn1a-ref-typefnadiv/8EAE0707139D12EB3D4E3EE6AE072AAA)</span>
 
 * An Automatic Multimedia Content Summarization System for Video Recommendation.<br>
 Jie Chi Yang, <strong><U>Yi-Ting Huang</U></strong>, Chi Cheng Tsai, Ching I Chung & Yu Chieh Wu  <br>
 Journal of Educational Technology & Society, 12(1), 49-61. 2009. <br>
-[pdf](http://academicpages.github.io/files/8_2009_ETS.pdf)
+<span style="color:#4285F4">[[pdf]](http://academicpages.github.io/files/8_2009_ETS.pdf)</span>
 
 Conference
 ======
@@ -34,10 +34,10 @@ Conference
 * <strong><U>Huang, Y. T.</U></strong>, Tseng, Y. M., Chen, M. C., & Sun, Y. L. (2014). TEDQuiz: Automatic Quiz Generation for TED Talks Video Clips to Assess Listening Comprehension, In Proceedings of the 14th IEEE International Conference on Advanced Learning Technologies, 350-354.
 
 * <strong><U>Huang, Y. T.</U></strong>, Chen, M. C., & Sun, Y. L. (2012). An Interpretable Statistical Ability Estimation in Web-based Learning Environment. In Proceedings of the 20th International Conference on Computers in Education, 230-237. <br>
-<strong><span style="color:#FF0000">(Best Student Paper Award Nominee)</span></strong>
+<strong><span style="color:#EA4335">(Best Student Paper Award Nominee)</span></strong>
 
 * <strong><U>Huang, Y. T.</U></strong>, Chen, M. C., & Sun, Y. L. (2012). Personalized Automatic Quiz Generation Based on Proficiency Level Estimation. In Proceedings of the 20th International Conference on Computers in Education, 553-560. <br>
-<strong><span style="color:#FF0000">(Best Technical Design Paper Award Nominee)</span></strong>
+<strong><span style="color:#EA4335">(Best Technical Design Paper Award Nominee)</span></strong>
 
 * <strong><U>Huang, Y. T.</U></strong>, Chang, H. P., Sun, Y. L., & Chen, M. C. (2011). A Robust Estimation Scheme of Reading Difficulty for Second Language Learners. In Proceedings of the 11th IEEE International Conference on Advanced Learning Technologies, 58-62.
 
