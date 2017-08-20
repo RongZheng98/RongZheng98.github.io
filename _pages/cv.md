@@ -66,10 +66,10 @@ Conference
 * <strong><U>Huang, Y. T.</U></strong>, Tseng, Y. M., Chen, M. C., & Sun, Y. L. (2014). TEDQuiz: Automatic Quiz Generation for TED Talks Video Clips to Assess Listening Comprehension, In Proceedings of the 14th IEEE International Conference on Advanced Learning Technologies, 350-354.
 
 * <strong><U>Huang, Y. T.</U></strong>, Chen, M. C., & Sun, Y. L. (2012). An Interpretable Statistical Ability Estimation in Web-based Learning Environment. In Proceedings of the 20th International Conference on Computers in Education, 230-237. <br>
-(Best Student Paper Award Nominee)
+<strong>(Best Student Paper Award Nominee)</strong>
 
 * <strong><U>Huang, Y. T.</U></strong>, Chen, M. C., & Sun, Y. L. (2012). Personalized Automatic Quiz Generation Based on Proficiency Level Estimation. In Proceedings of the 20th International Conference on Computers in Education, 553-560. <br>
-(Best Technical Design Paper Award Nominee)
+<strong>(Best Technical Design Paper Award Nominee)</strong>
 
 * <strong><U>Huang, Y. T.</U></strong>, Chang, H. P., Sun, Y. L., & Chen, M. C. (2011). A Robust Estimation Scheme of Reading Difficulty for Second Language Learners. In Proceedings of the 11th IEEE International Conference on Advanced Learning Technologies, 58-62.
 
