@@ -39,23 +39,23 @@ In Proceedings of the 17th International Conference on Artificial Intelligence i
 * Generating Comprehension Questions using Paraphrase. <br>
 Ya-Min Tseng, <strong><U>Yi-Ting Huang</U></strong>, Meng Chang Chen & Yeali S. Sun<br>
 In Proceedings of the 19th Conference on Technologies and Applications of Artificial Intelligence (TAAI 2014), 310-321. Taipei, Taiwan.<br>
-<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/3_2014_TAAI_CameraReady_141017.pdf)</span> [[link]](https://link.springer.com/chapter/10.1007/978-3-319-13987-6_29)</span>
+<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/3_2014_TAAI_CameraReady_141017.pdf) [[link]](https://link.springer.com/chapter/10.1007/978-3-319-13987-6_29)</span>
 
 * TEDQuiz: Automatic Quiz Generation for TED Talks Video Clips to Assess Listening Comprehension. <br>
 <strong><U>Yi-Ting Huang</U></strong>, Ya-Min Tseng, Meng Chang Chen & Yeali S. Sun<br>
 In Proceedings of the 14th IEEE International Conference on Advanced Learning Technologies, 350-354. 2014. Athens, Greece. <br>
-<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/4_2014_TEDQuiz.pdf)</span> [[link]](http://ieeexplore.ieee.org/document/6901478/)
+<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/4_2014_TEDQuiz.pdf) [[link]](http://ieeexplore.ieee.org/document/6901478/)</span>
 
 * An Interpretable Statistical Ability Estimation in Web-based Learning Environment. <br>
 <strong><U>Yi-Ting Huang</U></strong>, Meng Chang Chen & Yeali S. Sun<br>
 In Proceedings of the 20th International Conference on Computers in Education, 230-237. 2012. Singapore. <br>
-<strong><span style="color:#EA4335">[[Best Student Paper Award Nominee]]</span></strong> <br>
+<strong><span style="color:#EA4335">[Best Student Paper Award Nominee]</span></strong> <br>
 <span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/5_2012_ability.pdf)</span> 
 
 * Personalized Automatic Quiz Generation Based on Proficiency Level Estimation. <br>
 <strong><U>Yi-Ting Huang</U></strong>, Meng Chang Chen & Yeali S. Sun<br>
 In Proceedings of the 20th International Conference on Computers in Education, 553-560. 2012. Singapore. <br>
-<strong><span style="color:#EA4335">[[Best Technical Design Paper Award Nominee]]</span></strong> <br>
+<strong><span style="color:#EA4335">[Best Technical Design Paper Award Nominee]</span></strong> <br>
 <span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/6_2012_personalized_question_generation.pdf)</span> 
 
 * A Robust Estimation Scheme of Reading Difficulty for Second Language Learners. <br>
@@ -63,13 +63,28 @@ In Proceedings of the 20th International Conference on Computers in Education, 5
 In Proceedings of the 11th IEEE International Conference on Advanced Learning Technologies, 58-62. 2011. Athens, GA, USA. <br>
 <span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/7_2011_readability.pdf) [[link]](http://ieeexplore.ieee.org/document/5992265/)</span> 
 
-* An English Dialogue Companion System for Supporting Conversation Practice.
-<strong><U>Huang, Y. T.</U></strong>, Lin, Y. L., Yang, J. C., & Wu, Y. C. (2008).  In Proceedings of the 16th International Conference on Computers in Education, 43-48. Taipei, Taiwan. <br>
+* An English Dialogue Companion System for Supporting Conversation Practice. <br>
+<strong><U>Yi-Ting Huang</U></strong>, Yi-Lung Lin, Jie-Chi Yang & Yu-Chieh Wu. <br>
+In Proceedings of the 16th International Conference on Computers in Education, 43-48. 2008. Taipei, Taiwan. <br>
+<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/9_2008_ICCE.pdf) </span> 
 
-* <strong><U>Huang, Y. T.</U></strong>, Yang, J. C., & Wu, Y. C. (2008). The Development and Evaluation of English Dialogue Companion System. In Proceedings of the 8th IEEE International Conference on Advanced Learning Technologies. 
+* The Development and Evaluation of English Dialogue Companion System. <br>
+<strong><U>Yi-Ting Huang</U></strong>, Jie-Chi Yang & Yu-Chieh Wu. <br>
+In Proceedings of the 8th IEEE International Conference on Advanced Learning Technologies, 864-868. 2008. Santander, Spain. <br>
+<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/10_2008_edc.pdf) [[link]](http://ieeexplore.ieee.org/document/4561853/)</span> 
 
-* <strong><U>Huang, Y. T.</U></strong>, Chung, C. I., Tsai, C. C., Shen, C. H., Wu, Y. C., & Yang, J. C. (2007). A Mobile Video Question Answering System for E-learning. In Proceedings of the 7th IEEE International Conference on Advanced Learning Technologies. 74-78. 
+* A Mobile Video Question Answering System for E-learning. <br>
+<strong><U>Yi-Ting Huang</U></strong>, Ching I Chung, Chi Cheng Tsai, Chia-Hsing Shen, Yu Chieh Wu & Jie Chi Yang. <br>
+In Proceedings of the 7th IEEE International Conference on Advanced Learning Technologies. 74-78. 2007. Niigata, Japan. <br>
+<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/11_2007_pda.pdf) [[link]](http://ieeexplore.ieee.org/document/4280954/)</span> 
 
-* Tsai, C. C., Chung, C. I., <strong><U>Huang, Y. T.</U></strong>, Shen, C. H., Wu, Y. C., & Yang, J. C. (2007). VCSR: Video Content Summarization for Recommendation. In Proceedings of the 7th IEEE International Conference on Advanced Learning Technologies. 862-864. 
+* VCSR: Video Content Summarization for Recommendation. <br>
+Chi Cheng Tsai, Ching I Chung, <strong><U>Yi-Ting Huang</U></strong>, Chia-Hsing Shen, Yu Chieh Wu & Jie Chi Yang. <br>
+In Proceedings of the 7th IEEE International Conference on Advanced Learning Technologies. 862-864. 2007. Niigata, Japan. <br>
+<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/12_2007_VCSR.pdf) [[link]](http://ieeexplore.ieee.org/document/4281177/)</span> 
 
-* <strong><U>Huang, Y. T.</U></strong>, Tsai, C. C., Chung, C. I., Shen, C. H., Yang, J. C., & Wu, Y. C. (2007). Multimedia Content Summarization and Application to Video Recommendation. In Proceedings of Technology Enhanced Learning Conference. 23-30.
+* Multimedia Content Summarization and Application to Video Recommendation. <br>
+<strong><U>Yi-Ting Huang</U></strong>, Chi Cheng Tsai, Ching I Chung, Chia-Hsing Shen, Yu Chieh Wu & Jie Chi Yang. <br>
+In Proceedings of Technology Enhanced Learning Conference. 23-30. 2007. Jhongli, Taiwan. <br>
+<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/13_2007__TeLearn.pdf) </span> 
+
