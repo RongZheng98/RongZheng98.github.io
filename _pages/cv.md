@@ -38,9 +38,10 @@ Natural Language Processing, Question Generation, Adaptive Test, Ability Estimat
 Skills
 ======
 * Programming Languages: Python, JAVA, C++
-* NLP tools: Stanford’s Core NLP Suite, NLTK, Apache OpenNLP, and Apache Lucene
-* Statistics and machine-learning tools: Tensorflow, R, SPSS
-* Web development: HTML, PHP, CSS, JavaScript
+* NLP tools: Stanford’s Core NLP Suite, NLTK
+* Machine learning tools: Tensorflow, Scikit-learn
+* Statistics tools: R, SPSS
+* Web development: HTML, CSS, JavaScript, PHP,
 * Database: MySQL
 
 Awards & Honors
