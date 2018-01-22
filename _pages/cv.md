@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/Yi-Ting - cv.pdf) 
+
 Education
 ======
 * Ph.D., Information Management, National Taiwan University, 2008 – 2015
