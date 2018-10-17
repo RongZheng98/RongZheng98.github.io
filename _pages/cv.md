@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/Yi-Ting - cv.pdf) 
+<span style="color:#4285F4">[[pdf]](http://coralythuang.github.io/files/yitinghuang_cv_20181016.pdf) 
 
 Education
 ======
