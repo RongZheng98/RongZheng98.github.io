@@ -26,6 +26,16 @@ Journal of Educational Technology & Society, 12(1), 49-61. 2009. <br>
 
 Conference
 ======
+* 	Tagging Malware Intentions by Using Attention-Based Sequence-to-Sequence Neural Network. <br>
+<strong><U>Yi-Ting Huang</U></strong>, Yu-Yuan Chen, Chih-Chun Yang, Yeali Sun, Shun-Wen Hsiao, Meng Chang Chen<br>
+In Proceedings of Australasian Conference on Information Security and Privacy, 660-668. July, 2019. Christchurch, New Zealand.<br>
+<span style="color:#4285F4">[[link]](https://link.springer.com/chapter/10.1007/978-3-030-21548-4_38)</span>
+
+* 	From Receptive to Productive: Learning to Use Confusing Words through Automatically Selected Example Sentences. <br>
+Chieh-Yang Huang, <strong><U>Yi-Ting Huang</U></strong>, Mei-Hua Chen, & Lun-Wei Ku<br>
+In Proceedings of the 14th BEA@ACL, 461-471. 2019. Florence, Italy <br>
+<span style="color:#4285F4">[[link]](https://www.aclweb.org/anthology/W19-4447.pdf)</span>
+
 * Design of an Online Multimedia Learning System for Improving Students' Perceptions in English Language Learning. <br>
 <strong><U>Yi-Ting Huang</U></strong>, Tzu-Chi Yang, Meng Chang Chen, Chien-Ming Chen, & Yeali S. Sun<br>
 In Proceedings of the 16th IEEE International Conference on Advanced Learning Technologies. July, 2016. Austin, TX, USA. <br>
