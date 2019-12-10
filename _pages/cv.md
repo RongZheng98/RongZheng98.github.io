@@ -36,7 +36,7 @@ Research experience
 
 Research interests
 ======
-Natural Language Processing, Question Generation, Adaptive Test, Ability Estimation, Reading Difficulty Estimation, Personalized Learning, Intelligent Tutoring System (ITS).
+Malware Analysis, Deep Learning, Natural Language Processing, Question Generation, Adaptive Test, Ability Estimation, Reading Difficulty Estimation, Personalized Learning, Intelligent Tutoring System (ITS).
 
 Skills
 ======
@@ -49,6 +49,7 @@ Skills
 
 Awards & Honors
 ======
+* 2019 Academia Sinica Regular Postdoctoral Fellows Scholarship
 * 2016 Academia Sinica Regular Postdoctoral Fellows Scholarship
 * 2015 Scholarship from Professor Ram Kumar Memorial Foundation
 * 2012 Asia-Pacific Society for Computers in Education (APSCE) Merit Scholarship
