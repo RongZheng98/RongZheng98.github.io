@@ -38,15 +38,6 @@ Research interests
 ======
 Malware Analysis, Deep Learning, Natural Language Processing, Question Generation, Adaptive Test, Ability Estimation, Reading Difficulty Estimation, Personalized Learning, Intelligent Tutoring System (ITS).
 
-Skills
-======
-* Programming Languages: Python, JAVA, C++
-* NLP tools: Stanford’s Core NLP Suite, NLTK
-* Machine learning tools: Tensorflow, Scikit-learn
-* Statistics tools: R, SPSS
-* Web development: HTML, CSS, JavaScript, PHP,
-* Database: MySQL
-
 Awards & Honors
 ======
 * 2019 Academia Sinica Regular Postdoctoral Fellows Scholarship
