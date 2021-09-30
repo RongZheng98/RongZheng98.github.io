@@ -13,6 +13,9 @@ author_profile: true
 
 Journal
 ======
+* Open Source Intelligence for Malicious Behavior Discovery and Interpretation. <br>
+<strong><U>Yi-Ting Huang</U></strong>, Chi Yu Lin, Ying-Ren Guo, Kai-Chieh Lo, Yeali S. Sun, and Meng Chang Chen  <br> 
+to appear in IEEE Transactions on Dependable and Secure Computing, SI-Explainable Artificial Intelligence for Cyber Threat Intelligence (XAI-CTI) Application <br>
 * Developing, Evaluating and Refining an Automatic Generator of Diagnostic Multiple Choice Cloze Questions to Assess Comprehension while Reading. <br>
 Jack Mostow, <strong><U>Yi-Ting Huang</U></strong>, Hyeju Jang, Anders Weinstein, Joe Valeri, & Donna Gates <br>
 Journal of Natural Language Engineering, 23(2), 245-294. 2017. <br>
