@@ -14,7 +14,7 @@ author_profile: true
 Journal
 ======
 * Impact of e-scooter sharing on bike sharing in Chicago. <br>
-Hongtai Yang, <strong><U>Jinghai Huo</U></strong>, Yongxing Bao, Xuan Li, Linchuan Yang and Christopher R Cherry  <br> 
+Hongtai Yang, <strong><U>Jinghai Huo*</U></strong>, Yongxing Bao, Xuan Li, Linchuan Yang and Christopher R Cherry  <br> 
 Transportation Research Part A: Policy and Practice 154, 23-36. 2021. <br>
 <span style="color:#4285F4">[[link]](https://www.sciencedirect.com/science/article/abs/pii/S0965856421002445)</span>
 
