@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jinghai Huo"
-  avatar           : "JinghaiHuo.jpg"
+  name             : "Rong Zheng"
+  avatar           : "RongZheng.jpg"
   bio              : "Graduate student" #"Your biography for the left-hand sidebar"
   location         :  "Chengdu, China"
   employer         :
   googlescholar    : "https://scholar.google.com.hk/citations?user=3V-R2BYAAAAJ&hl=zh-CN&oi=ao"
-  email            : "huojinghai@my.swjtu.edu.cn"
+  email            : "zhengrong@my.swjtu.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
