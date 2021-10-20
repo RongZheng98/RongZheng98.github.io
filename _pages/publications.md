@@ -38,7 +38,7 @@ Journal of Educational Technology & Society, 12(1), 49-61. 2009. <br>
 Conference
 ======
 * 	Exploring the influence of built environment on E-Scooter demand: A study of multiple. cities in U.S. <br>
-<strong><U>Jinghai Huo</U></strong>, Taiyang Hong, Chaojing Li<br>
+<strong><U>Jinghai Huo</U></strong>, Hongtai Yang, Chaojing Li<br>
 Transportation Research Board 100th Annual MeetingTransportation Research Board.<br>
 <span style="color:#4285F4">[[link]](https://www.researchgate.net/publication/352537871_Exploring_the_influence_of_built_environment_on_E-Scooter_demand_A_study_of_multiple_cities_in_US)</span>
 
