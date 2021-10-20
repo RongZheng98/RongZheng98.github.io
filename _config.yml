@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi-Ting Huang" #"Your Name / Site Title"
+title                    : "Jinghai Huo" #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Yi-Ting Huang"
+name                     : &name "Jinghai Huo"
 description              : &description "personal description"
-url                      : https://coralythuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JinghaiHuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "coralythuang/coralythuang.github.io"
+repository               : "JinghaiHuo/JinghaiHuo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yi-Ting Huang"
-  avatar           : "yiting.jpg"
-  bio              : " " #"Your biography for the left-hand sidebar"
-  location         :  #"Location"
+  name             : "Jinghai Huo"
+  avatar           : "JinghaiHuo.jpg"
+  bio              : "Graduate student" #"Your biography for the left-hand sidebar"
+  location         :  "Chengdu, China"
   employer         :
-  googlescholar    : "https://scholar.google.com.tw/citations?user=uZIy830AAAAJ&hl=en"
-  email            : "ythuang@iis.sinica.edu.tw"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=3V-R2BYAAAAJ&hl=zh-CN&oi=ao"
+  email            : "huojinghai@my.swjtu.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
