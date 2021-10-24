@@ -81,7 +81,7 @@ author:
   name             : "Rong Zheng"
   avatar           : "RongZheng.jpg"
   bio              : "Graduate student" #"Your biography for the left-hand sidebar"
-  location         :  "Chengdu, China"
+  location         : "Chengdu, China"
   employer         :
   googlescholar    : #"https://scholar.google.com.hk/citations?user=3V-R2BYAAAAJ&hl=zh-CN&oi=ao"
   email            : "zhengrong@my.swjtu.edu.cn"
@@ -97,14 +97,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/rong-zheng-33459515b/"
   orcid            : "https://orcid.org/0000-0001-8687-8444"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "https://twitter.com/SwjtuZr"
   vine             :
   weibo            :
   xing             :
