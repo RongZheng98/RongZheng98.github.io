@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="https://edoakes.com/files/edward_oakes_cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://edoakes.github.io/files/edward_oakes_cv.pdf">
+<object data="https://rongzheng98.github.io/files/CV_RongZheng.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://rongzheng98.github.io/files/CV_RongZheng.pdf">
         This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
