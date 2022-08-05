@@ -82,10 +82,10 @@ Papers Published
 
 * Intercity Demand Responsive Transit Service Design: A Hybrid Optimization Method <br>
 
-*9th International Conference of Transportation and Space-time Economics Forum (TSTE 2021)*, Beijing, China (virtual), November, 2021.
+  *9th International Conference of Transportation and Space-time Economics Forum (TSTE 2021)*, Beijing, China (virtual), November, 2021.
 
 * Optimization of Intercity Demand Response Transit Service Design Considering Zoning Strategy 
 
-*Transportation Research Board 100th Annual Meeting*, Washington, D.C. (virtual), January, 2021.<br>
+  *Transportation Research Board 100th Annual Meeting*, Washington, D.C. (virtual), January, 2021.<br>
 
 
