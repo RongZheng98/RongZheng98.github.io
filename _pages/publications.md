@@ -23,7 +23,7 @@ Papers Published
 
 * Expected Length of the Shortest Path of the Traveling Salesman Problem in 3D Space. <br>Hongtai Yang, Xiaoqian Lu, Xinan Zhou, <strong><u>Rong Zheng</u></strong>, Yugang Liu\* & Siyu Tao. <br>*Journal of Advanced Transportation,* 2022. <br><span style="color:#4285F4">[[link]](https://doi.org/10.1155/2022/4124950)</span>
 
-* The Difference between Customers and Subscribers in Boston Tourists Using Shared Bicycles under COVID-19: Trip Frequency and Its Determinants. <br>Lanzhen Jiang, Hongtai Yang\*, <strong><u>Rong Zheng</u></strong> & Jinghai Huo. <br>*6th International Conference on Transportation Information and Safety* - ICTIS, 2021. <br><span style="color:#4285F4">[[link]](https://doi.org/10.1109/ICTIS54573.2021.9798632)</span>
+* The Difference between Customers and Subscribers in Boston Tourists Using Shared Bicycles under COVID-19: Trip Frequency and Its Determinants. <br>Lanzhen Jiang, Hongtai Yang\*, <strong><u>Rong Zheng</u></strong> & Jinghai Huo. <br>*6th International Conference on Transportation Information and Safety - ICTIS*, 2021. <br><span style="color:#4285F4">[[link]](https://doi.org/10.1109/ICTIS54573.2021.9798632)</span>
 
 * A Dynamic Shared Bikes Rebalancing Method Based on Demand Prediction <br>
   Xiaojian Zhang, Hongtai Yang\*, <strong><u>Rong Zheng</u></strong>, Zhicheng Jin & Bowen Zhou <br>
