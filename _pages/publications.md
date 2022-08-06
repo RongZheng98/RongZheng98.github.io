@@ -40,7 +40,7 @@ Papers Published
 
 * Nonlinear and threshold effects of built environment on e-scooter sharing ridership. <br>Hongtai Yang, <strong><u>Rong Zheng</u></strong>, Xuan Li\*, Jinghai Huo, Linchuan Yang & Tong Zhu <br>*Journal of Transport Geography*, 2022 (Under Review) <br>
 
-* Influence of built environment factors on the market share of bike and e-bike service. <br>Xiao Zhang, <strong><u>Rong Zheng</u></strong>, Xiaojian Zhang <br>*Transportation Research Board 102th Annual Meeting*, 2023 (Under Review) <br>
+* Influence of built environment factors on the market share of bike and e-bike service. <br>Xiao Zhang, <strong><u>Rong Zheng</u></strong>\*, Xiaojian Zhang <br>*Transportation Research Board 102th Annual Meeting*, 2023 (Under Review) <br>
 
   <br>
 
