@@ -34,7 +34,7 @@ Papers Published
 
 # Papers Submitted
 
-* A Hybrid Optimization Method for the Intercity Demand Responsive Transit Service Design. <br>Hongtai Yang, <strong><u>Rong Zheng</u></strong>\* & Wenbo Fan\* <br>*Transportation Research Part A*, 2022 (Under Review) <br>
+* A Hybrid Optimization Method for the Intercity Demand Responsive Transit Service Design. <br>Hongtai Yang, <strong><u>Rong Zheng</u></strong>\* & Wenbo Fan\* <br>*Transportation Research Part C*, 2022 (Under Review) <br>
 
 * Optimizing the cleaning and disinfection scheme for dockless shared bikes. <br><strong><u>Rong Zheng</u></strong>, Hongtai Yang\*, Lanzhen Jiang, Jinghai Huo & Xiaoqian Lu <br>*Journal of Advanced Transportation*, 2022 (Under Review) <br>
 
